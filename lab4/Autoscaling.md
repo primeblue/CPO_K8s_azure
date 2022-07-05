@@ -68,7 +68,7 @@ kubectl get deployment php-apache
 ```
 
 
-# 부하 중지(부하 생성 시 터미널에서 진행)
+# 부하 중지(부하 생성 터미널에서 진행)
 
 ```
 Ctrl + C
