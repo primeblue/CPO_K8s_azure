@@ -1,10 +1,10 @@
-# Task 2 - Pod.md  
+# Task 1 - Pod.md  
 
 ### Pod를 직접 생성/조회/삭제
 #
 1. 실습 디렉토리 이동
 ```
-cd /home/ubuntu/environment/CPO_K8s/lab2/yaml/
+cd /root/CPO_K8s/lab2/yaml/
 ```
 
 2. Pod 조회
