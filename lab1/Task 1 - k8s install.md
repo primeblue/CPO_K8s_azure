@@ -30,8 +30,6 @@ pod 정상 배포 확인
 watch kubectl get pods -n calico-system
 
 
-![image](https://user-images.githubusercontent.com/92773629/137878112-476a8d5f-9399-46a9-acaa-5be0a5c0af84.png)
-
 5. kubectl 자동완성 적용
 ```
 source <(kubectl completion bash)
