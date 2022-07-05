@@ -1,4 +1,4 @@
-# Task 4 - Replicaset
+# Task 3 - Replicaset
 
 ### Replicaset 을 직접 생성/조회/삭제
 #  
