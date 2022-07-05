@@ -52,6 +52,7 @@ kubectl get pod
 ```
 ssh -i "sample.pem" ubuntu@<공인IP>
 
+sudo -i
 watch -n 0.5 kubectl get pod
 ```
 
