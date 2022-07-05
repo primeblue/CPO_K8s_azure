@@ -3,7 +3,7 @@
 
 1. 실습 디렉토리 이동
 ```
-cd /home/ubuntu/environment/CPO_K8s/lab4/yaml
+cd /root/CPO_K8s/lab4/yaml
 ```
 
 
