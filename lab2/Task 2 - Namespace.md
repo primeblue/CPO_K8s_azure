@@ -1,4 +1,4 @@
-# Task 3 - Namespace
+# Task 2 - Namespace
 
 ### namespace 를 직접 생성/조회/삭제 및 namespace 안에 리소스 생성/조회/삭제
 #  
