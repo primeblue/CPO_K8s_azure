@@ -4,7 +4,7 @@
 #
 1. 실습 디렉토리 이동
 ```
-cd /root/CPO_K8s/lab2/yaml/
+cd /root/CPO_K8s_aws/lab2/yaml/
 ```
 
 2. Pod 조회
