@@ -1,4 +1,4 @@
-# Task 5 - Deployment
+# Task 4 - Deployment
 
 ### Deployment 을 생성, 조회, 업데이트, 롤백, 스케일링, 삭제
 #  
@@ -48,11 +48,14 @@ kubectl get pod
 ```
 
 9. 터미널을 하나 더 오픈하여 모니터링용 터미널을 생성합니다.
+
 ```
+ssh -i "sample.pem" ubuntu@<공인IP>
+
 watch -n 0.5 kubectl get pod
 ```
 
-10. create 명령으로 deployment 생성
+10. 기존 터미널 환경에서 create 명령으로 deployment 생성
 >-deployment 조건-  
 deployment name : dp2  
 container image : nginx:1.14.0  
