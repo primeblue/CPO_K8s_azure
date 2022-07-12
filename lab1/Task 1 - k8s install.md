@@ -47,3 +47,8 @@ kubectl taint nodes --all node-role.kubernetes.io/master-
 ```
 kubectl get nodes
 ```
+
+8. git clone
+```
+git clone https://github.com/primeblue/-CPO_K8s_azure
+```
