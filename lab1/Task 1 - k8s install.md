@@ -50,5 +50,5 @@ kubectl get nodes
 
 8. git clone
 ```
-git clone https://github.com/primeblue/-CPO_K8s_azure
+git clone https://github.com/primeblue/CPO_K8s_azure
 ```
